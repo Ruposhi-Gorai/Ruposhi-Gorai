@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Ruposhi Gorai  
-- 👀 I’m interested in web development, technology, and creative problem-solving.  
+- 👀 I’m a web developer, tech enthusiast, creative problem solver.  
 - 🌱 I’m currently learning full-stack web development (MERN stack).  
 - 💞️ I’m looking to collaborate on innovative web projects and open-source contributions.  
 - 📫 How to reach me: via LinkedIn.  
