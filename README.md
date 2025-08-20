@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruposhi</h1>
-<h3 align="center">Aspiring Software Developer | Full Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">Software Developer | Full Stack Developer | Tech Enthusiast</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently upskilling in **MERN Stack**
 
 - 👯 I’m looking to collaborate on **similar project ideas**
 
