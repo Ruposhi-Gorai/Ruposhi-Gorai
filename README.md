@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ruposhi</h1>
 <h3 align="center">Software Developer | Full Stack Developer | Tech Enthusiast</h3>
 
-- 🌱 I’m currently upskilling in **MERN Stack**
+- 🌱 I’m a **MERN Stack** Developer.
 
-- 👯 I’m looking to collaborate on **similar project ideas**
+- 👯 I’m looking to work on **similar project ideas**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ruposhi-Gorai](https://github.com/Ruposhi-Gorai)
 
-- 📫 How to reach me **ruposhigorai09@gmail.com**
+- 📫 How to reach me **ruposhigorai27@gmail.com**
 
 -  🎨 Creating, learning, breaking, fixing – **that’s my favorite loop!**
   
